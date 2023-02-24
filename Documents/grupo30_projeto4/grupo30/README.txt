@@ -5,6 +5,7 @@
  * Daniel Lopes - fc56357
  * Miguel Ramos - fc56377
  * Tomás Piteira - fc56303
+ * NOTA: 17.3
  * -----------------------------
  * LIMITAÇÕES NA IMPLEMENTAÇÃO:  Sem problemas na implementação
  * 
