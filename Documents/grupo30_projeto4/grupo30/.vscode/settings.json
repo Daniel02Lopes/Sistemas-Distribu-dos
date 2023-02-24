@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "type_traits": "c",
+        "client_stub.h": "c",
+        "message-private.h": "c",
+        "network_client.h": "c",
+        "tree.h": "c"
+    }
+}
